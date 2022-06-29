@@ -4,7 +4,7 @@ A part of my CIS 243, Introduction to SQL, course I created a movie database alo
 
 # What I Learned
 
--SQL Syntax
--Create database structure
--Entity relationships
--Manipulate, store, and retrieve data
+- SQL Syntax
+- Create database structure
+- Entity relationships
+- Manipulate, store, and retrieve data
